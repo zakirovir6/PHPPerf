@@ -1,0 +1,16 @@
+{
+    "name": "zakirovir6/phpperf",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Zakirov Igor",
+            "email": "zakirovir6@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PHPPerf\\": "src/"
+        }
+    },
+    "require": {}
+}
