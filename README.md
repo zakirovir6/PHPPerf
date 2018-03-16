@@ -1,7 +1,7 @@
 # PHPPerf
 
 ## dependencies
-(composer)[http://getcomposer.org]
+[composer](http://getcomposer.org)
 
 ## installation
 
